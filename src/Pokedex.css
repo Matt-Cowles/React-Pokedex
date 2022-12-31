@@ -1,0 +1,12 @@
+.Poke-winner {
+    color: green;
+    font-size: 32px;
+}
+.Poke-loser {
+    color: red;
+    font-size: 32px;
+}
+
+.Pokedex-exp{
+    font-size: 21px;
+}
