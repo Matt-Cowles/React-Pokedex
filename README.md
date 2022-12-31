@@ -4,9 +4,11 @@ This project is a basic card game that allows users to play a game of Pokemon wi
 
 This project was built using React, a popular JavaScript library for building user interfaces. We chose to use React because of its powerful features and ability to easily create reusable components.
 
-To get started with this project, you will need to have Node.js and npm installed on your computer. Once you have these dependencies, you can clone this repository and install the project dependencies by running the following command:`npm install`
+To get started with this project, you will need to have Node.js and npm installed on your computer. 
 
-To start the development server, run the following command:`npm start`
+Once you have these dependencies, you can clone this repository and install the project dependencies by running the following command: `npm install`
+
+To start the development server, run the following command: `npm start`
 
 This will start the development server and open the application in your default browser. You can then start playing the game by refreshing the page to deal new hands.
 
