@@ -2,7 +2,7 @@
 
 This project is a basic card game that allows users to play a game of Pokemon with a deck of cards. The game compares the base experience points of the cards in each player's hand, and determines which hand is the winner based on the highest value.
 
-This project was built using React, a popular JavaScript library for building user interfaces. We chose to use React because of its powerful features and ability to easily create reusable components.
+This project was built using React. I chose to use React because of its powerful features and ability to easily create reusable components.
 
 To get started with this project, you will need to have Node.js and npm installed on your computer. 
 
